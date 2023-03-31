@@ -11,9 +11,9 @@ Node.js 12 or higher
 Install the package with:
 
 ```
-npm install hams-external-sdk-js --save
+npm i @viridiasolutions/hams-external-sdk-js --save
 ```
 
 ## Documentation ##
- * API Document
+ * [API Document](https://viridiasolutions.github.io/hams-external-sdk-js/)
  * [Examples](examples/)
