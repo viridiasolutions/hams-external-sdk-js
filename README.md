@@ -23,5 +23,5 @@ npm i @viridiasolutions/hams-external-sdk-js --save
 [npm-url]: https://www.npmjs.com/package/@viridiasolutions/hams-external-sdk-js
 [npm-version-image]: https://badge.fury.io/js/@viridiasolutions%2Fhams-external-sdk-js.svg
 
-[test-coverage-url]: https://app.codecov.io/gh/viridiasolutions/hams-external-sdk-js
-[test-coverage-image]: https://app.codecov.io/gh/viridiasolutions/hams-external-sdk-js/branch/master/graph/badge.svg
+[test-coverage-url]: https://codecov.io/gh/viridiasolutions/hams-external-sdk-js
+[test-coverage-image]: https://codecov.io/gh/viridiasolutions/hams-external-sdk-js/branch/main/graph/badge.svg?token=VRLGK7VYKC
