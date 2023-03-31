@@ -16,4 +16,4 @@ npm install hams-external-sdk-js --save
 
 ## Documentation ##
  * API Document
- * Examples
+ * [Examples](examples/)
