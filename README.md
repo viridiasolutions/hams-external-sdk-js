@@ -18,7 +18,7 @@ npm i @viridiasolutions/hams-external-sdk-js --save
 
 ## Documentation ##
  * [API Document](https://viridiasolutions.github.io/hams-external-sdk-js/)
- * [Examples](examples/)
+ * [Examples](https://github.com/viridiasolutions/hams-external-sdk-js/tree/main/examples)
 
 [npm-url]: https://www.npmjs.com/package/@viridiasolutions/hams-external-sdk-js
 [npm-version-image]: https://badge.fury.io/js/@viridiasolutions%2Fhams-external-sdk-js.svg
